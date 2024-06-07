@@ -1,0 +1,4 @@
+interface Server {
+  Port: string;
+}
+
